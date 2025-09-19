@@ -11,6 +11,7 @@
     <None Include="..\..\Source\Report_7_MakeDroneEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -37,6 +38,36 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\Report_7_MakeDrone\Report_7_MakeDrone.h">
       <Filter>Source\Report_7_MakeDrone</Filter>
+    </ClCompile>
+    <Filter Include="Source\Report_7_MakeDrone\Private">
+      <UniqueIdentifier>{694069A4-229F-3D42-BC69-B208DEA86E0D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Report_7_MakeDrone\Private\ChallangeReportPawn.cpp">
+      <Filter>Source\Report_7_MakeDrone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report_7_MakeDrone\Private\MyGameModeBase.cpp">
+      <Filter>Source\Report_7_MakeDrone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report_7_MakeDrone\Private\MyPlayerController.cpp">
+      <Filter>Source\Report_7_MakeDrone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report_7_MakeDrone\Private\ReportPawn.cpp">
+      <Filter>Source\Report_7_MakeDrone\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Report_7_MakeDrone\Public">
+      <UniqueIdentifier>{C0036304-6F65-383B-81E8-0C48C595AEA7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Report_7_MakeDrone\Public\ChallangeReportPawn.h">
+      <Filter>Source\Report_7_MakeDrone\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report_7_MakeDrone\Public\MyGameModeBase.h">
+      <Filter>Source\Report_7_MakeDrone\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report_7_MakeDrone\Public\MyPlayerController.h">
+      <Filter>Source\Report_7_MakeDrone\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report_7_MakeDrone\Public\ReportPawn.h">
+      <Filter>Source\Report_7_MakeDrone\Public</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

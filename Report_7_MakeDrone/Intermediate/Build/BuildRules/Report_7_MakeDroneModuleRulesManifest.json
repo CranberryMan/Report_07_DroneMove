@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Unreal_Project\\Report_7_MakeDrone\\Source\\Report_7_MakeDrone\\Report_7_MakeDrone.Build.cs",
-		"C:\\Unreal_Project\\Report_7_MakeDrone\\Source\\Report_7_MakeDrone.Target.cs",
-		"C:\\Unreal_Project\\Report_7_MakeDrone\\Source\\Report_7_MakeDroneEditor.Target.cs"
+		"C:\\Unreal_Project\\git\\Report_07\\Report_7_MakeDrone\\Source\\Report_7_MakeDrone\\Report_7_MakeDrone.Build.cs",
+		"C:\\Unreal_Project\\git\\Report_07\\Report_7_MakeDrone\\Source\\Report_7_MakeDrone.Target.cs",
+		"C:\\Unreal_Project\\git\\Report_07\\Report_7_MakeDrone\\Source\\Report_7_MakeDroneEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

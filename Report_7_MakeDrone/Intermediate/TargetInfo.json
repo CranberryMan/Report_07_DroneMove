@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Report_7_MakeDrone",
+			"Path": "..\\Source\\Report_7_MakeDrone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Report_7_MakeDroneEditor",
+			"Path": "..\\Source\\Report_7_MakeDroneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
